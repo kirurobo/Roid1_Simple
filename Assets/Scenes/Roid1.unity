@@ -1017,7 +1017,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: -0.004501, y: 0, z: 0}
+  m_ParentAnchorPosition: {x: -0.004501013, y: 0, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
@@ -1178,7 +1178,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: -0.011504, y: -0.038476005, z: 0.004052}
+  m_ParentAnchorPosition: {x: -0.011503996, y: -0.038476005, z: 0.004052}
   m_ParentAnchorRotation: {x: 0, y: 0, z: 0, w: 1}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -1295,7 +1295,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0.004501, y: 0, z: 0}
+  m_ParentAnchorPosition: {x: 0.004500998, y: 0, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
@@ -1411,7 +1411,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: -0.011404, y: -0.03854999, z: 0}
+  m_ParentAnchorPosition: {x: -0.0114039965, y: -0.03854999, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
@@ -1990,7 +1990,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0, y: -0.065008, z: 0}
+  m_ParentAnchorPosition: {x: 0.0000000037252903, y: -0.065008, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0, z: 0, w: 1}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -2173,7 +2173,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0.02153, y: -0.044936, z: 0}
+  m_ParentAnchorPosition: {x: 0.021530002, y: -0.044936, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -3478,7 +3478,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: -0.02153, y: -0.044936, z: 0}
+  m_ParentAnchorPosition: {x: -0.021530002, y: -0.044936, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
@@ -4829,7 +4829,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0.011504, y: -0.038476005, z: 0.004052}
+  m_ParentAnchorPosition: {x: 0.011504011, y: -0.038476005, z: 0.004052}
   m_ParentAnchorRotation: {x: 0, y: 0, z: 0, w: 1}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5144,7 +5144,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0.011404, y: -0.03854999, z: 0}
+  m_ParentAnchorPosition: {x: 0.0114039965, y: -0.03854999, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
@@ -6215,7 +6215,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0, y: -0.065008, z: 0}
+  m_ParentAnchorPosition: {x: 0.000000011175871, y: -0.065008, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0, z: 0, w: 1}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -6448,7 +6448,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0, y: -0.06520301, z: 0}
+  m_ParentAnchorPosition: {x: 0.000000011175871, y: -0.06520301, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0, z: 0, w: 1}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -6610,7 +6610,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 2
   m_Mass: 1
-  m_ParentAnchorPosition: {x: 0, y: -0.06520301, z: 0}
+  m_ParentAnchorPosition: {x: 0.0000000037252903, y: -0.06520301, z: 0}
   m_ParentAnchorRotation: {x: 0, y: 0, z: 0, w: 1}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -6720,6 +6720,7 @@ GameObject:
   - component: {fileID: 1633195042}
   - component: {fileID: 1633195041}
   - component: {fileID: 1633195044}
+  - component: {fileID: 1633195045}
   m_Layer: 0
   m_Name: roid1
   m_TagString: robot
@@ -6795,6 +6796,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sourceHumanoid: {fileID: 1567943450}
   servosMask: 0
+--- !u!114 &1633195045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633195040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f885b1bfa9ff54fbc1f86557af292e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1637605487
 GameObject:
   m_ObjectHideFlags: 0
