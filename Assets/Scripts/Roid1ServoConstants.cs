@@ -70,8 +70,8 @@ namespace HumanoidTracer
             
             {ServoPosition.LeftHipYaw, "l_hipjointupper"},
             {ServoPosition.LeftHipRoll, "l_hipjointlower"},
-            {ServoPosition.LeftUpperLegPitch, "l_upperreg"},
-            {ServoPosition.LeftLowerLegPitch, "l_lowerreg"},
+            {ServoPosition.LeftUpperLegPitch, "l_upperleg"},
+            {ServoPosition.LeftLowerLegPitch, "l_lowerleg"},
             {ServoPosition.LeftFootPitch, "l_ankle"},
             {ServoPosition.LeftFootRoll, "l_foot"},
             
@@ -84,8 +84,8 @@ namespace HumanoidTracer
             
             {ServoPosition.RightHipYaw, "r_hipjointupper"},
             {ServoPosition.RightHipRoll, "r_hipjointlower"},
-            {ServoPosition.RightUpperLegPitch, "r_upperreg"},
-            {ServoPosition.RightLowerLegPitch, "r_lowerreg"},
+            {ServoPosition.RightUpperLegPitch, "r_upperleg"},
+            {ServoPosition.RightLowerLegPitch, "r_lowerleg"},
             {ServoPosition.RightFootPitch, "r_ankle"},
             {ServoPosition.RightFootRoll, "r_foot"},
         };
