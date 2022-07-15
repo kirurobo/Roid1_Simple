@@ -69,11 +69,11 @@ namespace HumanoidTracer
                     // 制限を超えた場合は制限までに直す
                     if (xDrive.lowerLimit <= xDrive.upperLimit)
                     {
-                        Mathf.Clamp(targetAngle, xDrive.lowerLimit, xDrive.upperLimit);
+                        targetAngle = Mathf.Clamp(targetAngle, xDrive.lowerLimit, xDrive.upperLimit);
                     }
                     else
                     {
-                        Mathf.Clamp(targetAngle, xDrive.upperLimit, xDrive.lowerLimit);
+                        targetAngle = Mathf.Clamp(targetAngle, xDrive.upperLimit, xDrive.lowerLimit);
                     }
                     angle = targetAngle - offset;
 
