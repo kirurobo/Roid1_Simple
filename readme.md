@@ -50,7 +50,17 @@ Unityのプロジェクト欄で roid1.urdf を右クリックし、
   - つけないと重力なしでは徐々に浮かんでいきます
 
 
-# スクリプトの用意
+## スクリプトの用意
 Scripts/HumanoidMimiCryController.cs をロボットにアタッチします。
 
 Souce Humanoid に、動作元となるモデルを指定します。
+
+
+# ライセンス
+- Kirurobo 作成部分のスクリプトや Unity プロジェクトは MIT ライセンスです。
+- Models, Motions 内はそれぞれ個別の説明をご覧ください。
+
+
+# 謝辞
+本プロジェクトは [izm](https://github.com/neon-izm) さんの [PremaindAI_TechVerification](https://github.com/neon-izm/PremaindAI_TechVerification) 内 [HumanoidTracer](https://github.com/neon-izm/PremaindAI_TechVerification/tree/master/MotionDataVerification/Assets/_PremaidAI/HumanoidTracer) の仕組みを別ロボット用としてリメイクしたものです。
+
